@@ -1,0 +1,11 @@
+json
+bqplot
+pandas
+numpy
+plotly
+matplotlib
+copy
+ipympl
+ipyvolume
+scipy
+voila
