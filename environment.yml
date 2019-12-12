@@ -1,4 +1,3 @@
-name: geo_env_simple
 channels:
   - conda-forge
   - defaults
